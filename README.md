@@ -33,6 +33,6 @@ I'm an AI & Data Solutions Engineer at [Alfa Laval](https://www.alfalaval.com/) 
 
 ### A few projects
 
-- [mroakt.com](https://mroakt.com) — my personal portfolio platform, with typed content collections, localized routes, search, metadata, sitemap output, validation, and tests. [Code](https://github.com/carvalho28/portfolio)
-- [Nebuloom](https://nebuloom-studio.vercel.app) — a local-first wallpaper studio for building abstract backgrounds from gradients, shapes, grain, presets, and reproducible seeds. [Code](https://github.com/carvalho28/nebuloom)
+- [mroakt.com](https://mroakt.com) — my personal portfolio platform, with typed content collections, localized routes, search, metadata, sitemap output, validation, and tests.
+- [Nebuloom](https://nebuloom-studio.vercel.app) — a local-first wallpaper studio for building abstract backgrounds from gradients, shapes, grain, presets, and reproducible seeds.
 - [ALDEVI: Compliance Through AI](https://drive.proton.me/urls/Z4SHG4C9R0#7sp3ChVkCVSU) — my MSc thesis project at DTU and Alfa Laval: a contract analysis system using LLMs and retrieval-augmented generation.
